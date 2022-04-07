@@ -1,8 +1,8 @@
 
 
-# Bootsrap-Finans-Pagina-Responsiva
+# Bootstrap-Finans-Pagina-Responsiva
 ## 💻 Project
-<p>#  Bootsrap-Finans-Pagina-Responsiva </p>
+<p>#  Bootstrap-Finans-Pagina-Responsiva </p>
 <p> Essa página foi construida com base em Bootstrap 4, é a página de uma agência financeira que possui diversos serviços. </p>
 
 <hr/>
