@@ -1,0 +1,8 @@
+:root {
+    --branco: #e5e5e5;
+}
+
+.caixa {
+    padding: 30px 0;
+    border-bottom: 1px solid var(--branco);
+}
